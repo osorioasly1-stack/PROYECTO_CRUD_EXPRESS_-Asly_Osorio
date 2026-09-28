@@ -1,0 +1,70 @@
+[
+  {
+    "nombre": "Leider",
+    "edad": 18,
+    "correo": "rinconestec1028@gmail.com",
+    "imagen": "url",
+    "clave": "x123"
+  },
+  null,
+  {
+    "nombre": "David",
+    "edad": 18,
+    "correo": "rinconestec1028@gmail.com",
+    "imagen": "url",
+    "clave": "x123"
+  },
+  {
+    "nombre": "leider",
+    "edad": 19,
+    "correo": "rinconestec1028@gmail.com",
+    "imagen": "url",
+    "clave": "x123"
+  },
+  null,
+  null,
+  null,
+  {
+    "Nombre": "Rincones",
+    "Edad": "19",
+    "Correo": "rinconestec1028@gmail.com",
+    "Imagen": "URL",
+    "Clave": "x123"
+  },
+  {
+    "imagen": "/misimagenes/1788797603049"
+  },
+  {
+    "imagen": "/misimagenes/1788797620394"
+  },
+  {
+    "imagen": "/misimagenes/1788797918734"
+  },
+  {
+    "imagen": "/misimagenes/1788798057756"
+  },
+  {
+    "imagen": "/misimagenes/1788798227478"
+  },
+  {
+    "imagen": "/misimagenes/1788798580414"
+  },
+  {
+    "imagen": "/misImagenes/1788799103704.jpg"
+  },
+  {
+    "nombre": "david",
+    "edad": "19",
+    "correo": "david@gmail.com",
+    "clave": "4321",
+    "imagen": "sin Imagenes"
+  },
+  {
+    "nombre": "josse",
+    "edad": "19",
+    "correo": "josed@gmail.com",
+    "clave": "4321",
+    "imagen": "sin Imagenes",
+    "id": 1
+  }
+]
